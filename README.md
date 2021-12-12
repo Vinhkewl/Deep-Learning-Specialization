@@ -6,7 +6,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Credits
 
-This repository contains my work for this specialization, currently i finished with the first course. The code base and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
+This repository contains my work for this specialization. The code base and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
 
 
 ## Programming Assignments
@@ -19,5 +19,12 @@ This repository contains my work for this specialization, currently i finished w
   - [Week 4 - PA 4 - Building your Deep Neural Network: Step by Step](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20Step%20by%20Step/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
   - [Week 4 - PA 5 - Deep Neural Network for Image Classification: Application](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%202%20and%204%20Layers%20Neural%20Network/Deep%20Neural%20Network%20-%20Application.ipynb)
 
+### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  
+  - [Week 1 - PA 1 - Initialization](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Week1/Initialization/Initialization.ipynb)
+  - [Week 1 - PA 2 - Regularization](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Week1/Regularization/Regularization.ipynb)
+  - [Week 1 - PA 3 - Gradient Checking](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Week1/Gradient%20Checking/Gradient_Checking.ipynb)
+  - [Week 2 - PA 4 - Optimization Methods](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Week2/Optimization_methods.ipynb)
+  - [Week 3 - PA 5 - TensorFlow Tutorial](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Week3/Tensorflow_introduction.ipynb)
+
+ ##Update: Course 2 (There's a bug i cant fix on week3 final question)
