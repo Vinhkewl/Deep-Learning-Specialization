@@ -28,3 +28,18 @@ This repository contains my work for this specialization. The code base and diag
   - [Week 3 - PA 5 - TensorFlow Tutorial](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Improving%20Deep%20Neural%20Networks/Week3/Tensorflow_introduction.ipynb)
 
  ##Update: Course 2 (There's a bug i cant fix on week3 final question)
+ ### Course 3: Structuring Machine Learning Projects
+
+  - There are no programming assignments for this course. But this course comes with very interesting case study quizzes (below).
+  
+### Course 4: Convolutional Neural Networks
+
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%201/Convolutional%20Model%20Step_by_step/Convolution_model_Step_by_Step_v1.ipynb)
+  - [Week 1 - PA 2 - Convolutional Neural Networks: Application](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%201/Convolution%20Model%20Application/Convolution_model_Application.ipynb)
+  - [Week 2 - PA 2 - Residual Networks](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%202/Residual%20Networks/Residual_Networks.ipynb)
+  - [Week 2 - PA 2 - Transfer Learning with MobileNet](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%202/Transfer%20Learning%20with%20MobileNet/Transfer_learning_with_MobileNet_v1.ipynb)
+  - [Week 3 - PA 1 - Car detection with YOLO for Autonomous Driving](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%203/Car%20Detection%20with%20YOLO/Autonomous_driving_application_Car_detection.ipynb)
+  - [Week 3 - PA 2 - Image Segmentation Unet](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%203/Image%20Segmentation%20with%20U-Net/Image_segmentation_Unet_v2.ipynb)
+  - [Week 4 - PA 1 - Art Generation with Neural Style Transfer](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%204/Face%20Recgonition/Face_Recognition.ipynb)    
+  - [Week 4 - PA 2 - Face Recognition](https://nbviewer.org/github/Vinhkewl/Deep-Learning-Specialization/blob/main/Convolutional%20Network/Week%204/Neural%20Style%20transfer/Art_Generation_with_Neural_Style_Transfer.ipynb)
+  
